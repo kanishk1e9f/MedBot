@@ -30,27 +30,33 @@ To get started, follow these steps:
 Clone the repository:
 
 bash
+Copy code
 git clone https://github.com/kanishk1e9f/MedBot.git
 Navigate to the project directory:
 
 bash
+Copy code
 cd MedBot
 (Optional but recommended) Create a virtual environment:
 
 bash
+Copy code
 python -m venv venv
 Activate the virtual environment:
 
 Windows:
 bash
+Copy code
 venv\Scripts\activate
 
 macOS/Linux:
 bash
+Copy code
 source venv/bin/activate
 Install the required dependencies:
 
 bash
+Copy code
 pip install -r requirements.txt
 
 5>Usage
@@ -58,6 +64,7 @@ To run the project locally:
 Open a terminal in the project directory.
 Run the main Python file:
 bash
+Copy code
 python main.py
 The project will be hosted on http://localhost:5000/ or another port as specified in your project.
 
